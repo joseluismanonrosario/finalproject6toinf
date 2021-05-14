@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joseluismanonrosario/finalproject6toinf/issues"
   },
-  "homepage": "https://github.com/joseluismanonrosario/finalproject6toinf#readme"
+  "homepage": "https://github.com/joseluismanonrosario/finalproject6toinf#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
