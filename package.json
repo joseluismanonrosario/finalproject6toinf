@@ -1,0 +1,19 @@
+{
+  "name": "finalproject6toinf",
+  "version": "1.0.0",
+  "description": "> Proyecto final de Magdalis y Mañon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluismanonrosario/finalproject6toinf.git"
+  },
+  "author": "Jose Luis Mañón <joseluismanonrosario@gmail.com> (www.github.com/joseluismanonrosario)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseluismanonrosario/finalproject6toinf/issues"
+  },
+  "homepage": "https://github.com/joseluismanonrosario/finalproject6toinf#readme"
+}
